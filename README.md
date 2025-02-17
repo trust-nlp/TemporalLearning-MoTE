@@ -7,7 +7,18 @@
  * Usage
  * Contact and Citation
 
+# Environment Setup
+1. Platform:
 
+* Ubuntu 22.04
+* Anaconda, Python 3.10.13
+* Linux Kernel: 6.8.0-40-generic
+
+2. Run the following commands to create the environment:
+
+* `conda env create -f environment.yml`
+* `conda activate tempo0`
+* 
 # Usage
 
 # Contact and Citation
