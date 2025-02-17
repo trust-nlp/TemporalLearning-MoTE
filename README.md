@@ -18,9 +18,11 @@
 
 * `conda env create -f environment.yml`
 * `conda activate tempo0`
-* 
+  
 # Usage
-
+* Run `sh train.sh` to get the performance and checkpoints of the base model. You can change to your own choice of model and dataset in the sh file.
+* Run `sh mote.sh` to adapt the base model.
+  
 # Contact and Citation
 
 For any inquiries, feel free to contact the author at: <wliu9@memphis.edu>
